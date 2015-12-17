@@ -1,2 +1,2 @@
 # Specialization-Project
-Specialization Project at NTNU
+R script for project.
